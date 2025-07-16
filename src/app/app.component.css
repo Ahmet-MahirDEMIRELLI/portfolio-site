@@ -7,13 +7,13 @@
 .navbar {
     height: 8vh;
     flex-shrink: 0;
-    border-bottom: 2px solid purple;
+    border-bottom: 2px solid #6c63ff;
 }
 
 .footer {
     height: 6vh;
     flex-shrink: 0;
-    border-top: 2px solid purple;
+    border-top: 2px solid #6c63ff;
 }
 
 .content {
