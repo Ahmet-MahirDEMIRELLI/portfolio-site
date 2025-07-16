@@ -83,6 +83,10 @@ ul{
   padding: 5px;
 }
 
+li{
+    text-align: start;
+}
+
 @media (max-width: 768px) {
     .experience-page-container {
         flex-direction: column;
