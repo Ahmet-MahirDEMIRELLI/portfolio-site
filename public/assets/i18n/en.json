@@ -41,16 +41,14 @@
         "drc-mess-1": "I completed this project as my internship project.",
         "drc-mess-2": "I coded a system for a business that handles in-person car rental operations.",
         "drc-mess-3": "Technologies used: Angular, .NET, and MSSQL.",
-        "ma": "Messaging Application",
-        "ma-mess-1": "I'm developing this project using Flutter and .NET.",
-        "ma-mess-2": "The aim is to create a secure messaging application using asymmetric encryption and blockchain principles.",
-        "ma-mess-3-1": "You can check the code on the",
-        "ma-mess-3-2": "and",
-        "ma-mess-3-3": "repositories.",
+        "ma-mess-1": "I developed it using Flutter and .NET.",
+        "ma-mess-2": "The purpose of the project is to enable users to communicate completely anonymously and securely by using Curve25519 for encryption and signing.",
         "ycr": "YTU Chess Robot",
         "ycr-mess-1": "I am part of both the frontend and backend teams.",
         "ycr-mess-2-1": "You can check the code on the",
-        "ycr-mess-2-2": " page."
+        "ycr-mess-2-2": " page.",
+        "gg-mess-1": "We are developing this project as part of our Graduation Project course.",
+        "gg-mess-2": "The purpose of the project is to provide a web-based system that delivers the genre information of the music uploaded by users through a cnn model."
     },
     "certificates-page": {
         "cwd": "Complete Web Development Training | .Net",

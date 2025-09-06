@@ -41,16 +41,14 @@
         "drc-mess-1": "Staj projem olarak tamamladım.",
         "drc-mess-2": "Elden teslim araç kiralama işlemi yapan bir işletmenin işini görecek bir sistem kodladım.",
         "drc-mess-3": "Kullanılan Teknolojiler: Angular, .Net ve MsSQL",
-        "ma": "Mesajlaşma Uygulaması",
-        "ma-mess-1": "Flutter ve .Net kullanarak geliştiriyorum.",
-        "ma-mess-2": "Projenin amacı kişilerin bilgi güvenliğini sağlayacak, asimetrik şifreleme yöntemleri kullanarak blockchain mantığı ile çalışan bir mesajlaşma uygulaması yapmak.",
-        "ma-mess-3-1": "Kodları incelemek için",
-        "ma-mess-3-2": "ve",
-        "ma-mess-3-3": "repository'lerine göz atabilirsiniz.",
+        "ma-mess-1": "Flutter ve .Net kullanarak geliştirdim.",
+        "ma-mess-2": "Projenin amacı kullanıcıların Curve25519 şifreleme ve imzalama kullanarak tamamen anonim ve güvenli bir şekilde mesajlaşabilmesini sağlamak.",
         "ycr": "YTÜ Satranç Robotu",
         "ycr-mess-1": "Frontend ve backend ekibinde görev alıyorum.",
         "ycr-mess-2-1": "Kodları incelemek için",
-        "ycr-mess-2-2": "'na göz atabilirsiniz."
+        "ycr-mess-2-2": "'na göz atabilirsiniz.",
+        "gg-mess-1": "Bu projeyi Bitirme Çalışması dersim kapsamında geliştirmekteyiz.",
+        "gg-mess-2": "Projenin amacı kullanıcıların yüklediği müziğin genre bilgisini döndüren cnn tabanlı modeli web tabanlı bir sistem üzerinden sunmak."
     },
     "certificates-page": {
         "cwd": "Komple Uygulamalı Web Geliştirme Eğitimi | .Net",
