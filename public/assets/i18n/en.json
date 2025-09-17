@@ -43,12 +43,10 @@
         "drc-mess-3": "Technologies used: Angular, .NET, and MSSQL.",
         "ma-mess-1": "I developed it using Flutter and .NET.",
         "ma-mess-2": "The purpose of the project is to enable users to communicate completely anonymously and securely by using Curve25519 for encryption and signing.",
-        "ycr": "YTU Chess Robot",
-        "ycr-mess-1": "I am part of both the frontend and backend teams.",
-        "ycr-mess-2-1": "You can check the code on the",
-        "ycr-mess-2-2": " page.",
         "gg-mess-1": "We are developing this project as part of our Graduation Project course.",
-        "gg-mess-2": "The purpose of the project is to provide a web-based system that delivers the genre information of the music uploaded by users through a cnn model."
+        "gg-mess-2": "The purpose of the project is to provide a web-based system that delivers the genre information of the music uploaded by users through a cnn model.",
+        "og-mess-1": "The purpose of the project is to allow users to practice chess by choosing a model with a desired skill level and playing from any chosen position.",
+        "og-mess-2": "Technologies to be used: .Net | Angular | Python"
     },
     "certificates-page": {
         "cwd": "Complete Web Development Training | .Net",

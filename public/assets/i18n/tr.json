@@ -43,12 +43,10 @@
         "drc-mess-3": "Kullanılan Teknolojiler: Angular, .Net ve MsSQL",
         "ma-mess-1": "Flutter ve .Net kullanarak geliştirdim.",
         "ma-mess-2": "Projenin amacı kullanıcıların Curve25519 şifreleme ve imzalama kullanarak tamamen anonim ve güvenli bir şekilde mesajlaşabilmesini sağlamak.",
-        "ycr": "YTÜ Satranç Robotu",
-        "ycr-mess-1": "Frontend ve backend ekibinde görev alıyorum.",
-        "ycr-mess-2-1": "Kodları incelemek için",
-        "ycr-mess-2-2": "'na göz atabilirsiniz.",
         "gg-mess-1": "Bu projeyi Bitirme Çalışması dersim kapsamında geliştirmekteyiz.",
-        "gg-mess-2": "Projenin amacı kullanıcıların yüklediği müziğin genre bilgisini döndüren cnn tabanlı modeli web tabanlı bir sistem üzerinden sunmak."
+        "gg-mess-2": "Projenin amacı kullanıcıların yüklediği müziğin genre bilgisini döndüren cnn tabanlı modeli web tabanlı bir sistem üzerinden sunmak.",
+        "og-mess-1": "Projenin amacı kullanıcıların seviyesini seçeceği model ile istediği pozisyon üzerinden satranç oynayarak pratik yapmasını sağlamak.",
+        "og-mess-2": "Kullanılacak teknolojiler: .Net | Angular | Python"
     },
     "certificates-page": {
         "cwd": "Komple Uygulamalı Web Geliştirme Eğitimi | .Net",
