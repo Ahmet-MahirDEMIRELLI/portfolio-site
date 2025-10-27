@@ -47,7 +47,9 @@
         "gg-mess-2": "Projenin amacı kullanıcıların yüklediği müziğin genre bilgisini döndüren cnn tabanlı modeli web tabanlı bir sistem üzerinden sunmak.",
         "og-mess-1": "Projenin amacı kullanıcıların seviyesini seçeceği model ile istediği pozisyon üzerinden satranç oynayarak pratik yapmasını sağlamak.",
         "og-mess-2": "Kullanılacak teknolojiler: .Net | Angular | Python",
-        "sg-mess-1": "SKYLAB kulübü altında SKYSEC olarak backend sunucularımızı korumak amaçlı IDS ve SIEM tabanlı güvenlik sistemi geliştiriyoruz."
+        "sg-mess-1": "SKYLAB kulübü altında SKYSEC olarak backend sunucularımızı korumak amaçlı IDS ve SIEM tabanlı güvenlik sistemi geliştiriyoruz.",
+        "hw-mess-1": "ÇDTP dersi kapsamında hastanın düşme, aşırı kalp atışı vb. durumlarını belirleyip bakıcıyı uyaran bir sistem geliştiriyoruz.",
+        "hw-mess-2": "Ben .Net ile bu sistemin backend geliştirme kısmını yapıyorum."
     },
     "certificates-page": {
         "cwd": "Komple Uygulamalı Web Geliştirme Eğitimi | .Net",

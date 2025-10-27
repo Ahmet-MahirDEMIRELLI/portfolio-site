@@ -47,7 +47,9 @@
         "gg-mess-2": "The purpose of the project is to provide a web-based system that delivers the genre information of the music uploaded by users through a cnn model.",
         "og-mess-1": "The purpose of the project is to allow users to practice chess by choosing a model with a desired skill level and playing from any chosen position.",
         "og-mess-2": "Technologies to be used: .Net | Angular | Python",
-        "sg-mess-1": "Under the SKYLAB club, we are developing an IDS and SIEM-based security system as SKYSEC to protect our backend servers."
+        "sg-mess-1": "Under the SKYLAB club, we are developing an IDS and SIEM-based security system as SKYSEC to protect our backend servers.",
+        "hw-mess-1": "As part of the CDTP course, we are developing a system that detects situations such as patient falls or abnormal heart rates and alerts the caregiver.",
+        "hw-mess-2": "I am working on the backend development of this system using .NET."
     },
     "certificates-page": {
         "cwd": "Complete Web Development Training | .Net",
